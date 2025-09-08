@@ -8,7 +8,12 @@ p{
 .cat{
     border-radius: 90px;
 }
+<<<<<<< HEAD
 .ss{
     font-size: 30px;
     color: brown;
+=======
+hr{
+    width: 50%;
+>>>>>>> second
 }
